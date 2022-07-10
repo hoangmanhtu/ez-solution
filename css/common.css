@@ -423,11 +423,11 @@
         .button-success {
             color: var(--color-blue-primary);
             border: 1px solid var(--color-orange-1);
-            /*background-color: var(--color-orange-1);*/
+            background-color: var(--color-orange-1);
             position: relative;
             isolation: isolate;
-            background: linear-gradient(180deg, #C07E04 0%, #FAED91 31.3%, #C9841D 63.59%, #D69F3B 100%);
-            background: -webkit-gradient(linear, left top, right top, color-stop(9.25%, #C07E04), color-stop(113.18%, #FAED91));
+            /*background: linear-gradient(180deg, #C07E04 0%, #FAED91 31.3%, #C9841D 63.59%, #D69F3B 100%);*/
+            /*background: -webkit-gradient(linear, left top, right top, color-stop(9.25%, #C07E04), color-stop(113.18%, #FAED91));*/
             animation: gradient 1s ease infinite;
             background-size: 200% 100%;
             -webkit-animation: gradient 1s ease infinite;
