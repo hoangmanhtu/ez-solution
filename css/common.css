@@ -6,7 +6,7 @@
             color: var(--color-white);
             background-image: url('../images/banner/bg.png');
             background-repeat: repeat;
-            z-index: 1;
+            z-index: 2;
         }
         
         *,
